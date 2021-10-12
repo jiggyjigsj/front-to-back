@@ -1,0 +1,37 @@
+
+==> /plexguide/logs/pmove.log <==
+---Begin cycle 7475 - GDSA05: 2021-09-17 21:26:09---
+Checking for files to upload...
+2021/09/17 21:26:09 INFO  : Starting bandwidth limiter at 1000Mi Byte/s
+2021/09/17 21:26:09 INFO  : Starting transaction limiter: max 10 transactions/s with burst 1
+2021/09/17 21:26:10 INFO  : There was nothing to transfer
+2021/09/17 21:26:10 INFO  :
+Transferred:   	          0 / 0 Byte, -, 0 Byte/s, ETA -
+Elapsed time:         1.0s
+
+Upload has finished.
+---Completed cycle 7475: 2021-09-17 21:26:10---
+
+---Begin cycle 7476 - GDSA06: 2021-09-17 21:26:40---
+Checking for files to upload...
+2021/09/17 21:26:40 INFO  : Starting bandwidth limiter at 1000Mi Byte/s
+2021/09/17 21:26:40 INFO  : Starting transaction limiter: max 10 transactions/s with burst 1
+2021/09/17 21:26:41 INFO  : There was nothing to transfer
+2021/09/17 21:26:41 INFO  :
+Transferred:   	          0 / 0 Byte, -, 0 Byte/s, ETA -
+Elapsed time:         1.1s
+
+Upload has finished.
+---Completed cycle 7476: 2021-09-17 21:26:41---
+
+---Begin cycle 7477 - GDSA01: 2021-09-17 21:27:11---
+Checking for files to upload...
+2021/09/17 21:27:11 INFO  : Starting bandwidth limiter at 1000Mi Byte/s
+2021/09/17 21:27:11 INFO  : Starting transaction limiter: max 10 transactions/s with burst 1
+2021/09/17 21:27:12 INFO  : There was nothing to transfer
+2021/09/17 21:27:12 INFO  :
+Transferred:   	          0 / 0 Byte, -, 0 Byte/s, ETA -
+Elapsed time:         1.0s
+
+Upload has finished.
+---Completed cycle 7477: 2021-09-17 21:27:12---

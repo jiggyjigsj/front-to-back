@@ -3,7 +3,8 @@
 **/.terraform
 
 # Base .tfvars files
-**/terraform.tfvars
+**/*.tfvars
 
-jiggystats/
+# jiggystats/
 answers.md
+**/.terraform.lock.hcl
