@@ -1,0 +1,9 @@
+**/*.tfstate*
+**/.DS_Store
+**/.terraform
+
+# Base .tfvars files
+**/terraform.tfvars
+
+jiggystats/
+answers.md
