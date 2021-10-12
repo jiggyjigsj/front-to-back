@@ -8,3 +8,7 @@
 # jiggystats/
 answers.md
 **/.terraform.lock.hcl
+
+
+/backend/config/initializers/secret_token.rb
+/backend/config/master.key
